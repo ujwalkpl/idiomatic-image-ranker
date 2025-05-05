@@ -1,0 +1,9 @@
+Model,Dev 1pc Accuracy (%),Test 1pc Accuracy (%)
+Rank 1 - Cosine,60.0,60.0
+Rank 2 - Cosine,73.0,40.0
+Rank 4 - Cosine,73.0,40.0
+Rank 8 - Cosine,67.0,53.0
+Rank 1 - Euclidean,67.0,67.0
+Rank 2 - Euclidean,60.0,53.0
+Rank 4 - Euclidean,60.0,60.0
+Rank 8 - Euclidean,67.0,40.0
