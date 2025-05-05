@@ -21,4 +21,4 @@ nlp/
 
 # Ignore OS-specific files
 .DS_Store
-Thumbs.db
+Thumbs.dbrank8_cosine_best.pt
