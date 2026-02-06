@@ -8,9 +8,12 @@ __pycache__/
 nlp/
 .env/
 .env
+venv/
+env/
 
 # Ignore IDE settings
 .idea/
+.vscode/
 
 # Ignore Jupyter notebook checkpoints
 .ipynb_checkpoints/
@@ -21,5 +24,13 @@ nlp/
 
 # Ignore OS-specific files
 .DS_Store
-Thumbs.dbrank8_cosine_best.pt
+Thumbs.db
+
+# Ignore model checkpoints and outputs
 *.pt
+outputs/checkpoints/*.pt
+outputs/logs/*.csv
+outputs/plots/*.png
+
+# Ignore data files (optional - uncomment if data should not be versioned)
+# data/raw/
